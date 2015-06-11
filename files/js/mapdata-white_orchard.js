@@ -12,7 +12,7 @@
 				[-77.786, -48.604],
 				[-65.293, -152.842]
 			],
-			label: 'Abandoned Site',
+			label: '버려진 곳',
 			popup: 'A place abandoned due to monster or bandit attacks. Once the danger is eliminated, it will fill with life once more'
 		}],
 
@@ -45,7 +45,7 @@
 				[-72.462, -16.699],
 				[-66.000, -19.688]
 			],
-			label: 'Bandit Camp',
+			label: '도적 캠프',
 			popup: 'A group of dangerous bandits have made camp here'
 		}],
 
@@ -65,11 +65,11 @@
 	// Entrance
 		entrance: [{
 			coords: [[-79.592, -84.199]],
-			label: 'Entrance',
+			label: '동굴입구',
 			popup: 'Entrance to cave or ruins',
 		}, {
 			coords: [[-77.897, -75.586]],
-			label: 'Entrance',
+			label: '동굴입구',
 			popup: 'Entrance to cave or ruins'
 		}],
 
@@ -81,7 +81,7 @@
 				[-64.624, -155.215],
 				[-26.902, -149.941]
 			],
-			label: 'Grindstone',
+			label: '무기연마',
 			popup: 'A blade sharpened here will deal more damage'
 		}],
 
@@ -94,14 +94,14 @@
 				[-27.333, -134.077],
 				[-74.776, 0.352]
 			],
-			label: 'Guarded Treasure',
+			label: '보호되는 보물',
 			popup: 'A particularly powerful monster guards a valuable cache here'
 		}],
 
 	// Gwent Player
 		gwent: [{
 			coords: [[-65.946, -81.387]],
-			label: 'Gwent Player',
+			label: '궨트 플레이어',
 			popup: 'Gamble your hard earned coin playing Gwent here. Disappears after progressing through story quests'
 		}],
 
@@ -110,11 +110,11 @@
 	// Herbalist
 		herbalist: [{
 			coords: [[-66.267, -132.627]],
-			label: 'Herbalist',
+			label: '약초상',
 			popup: 'Here you can buy alchemy ingredients'
 		}, {
 			coords: [[-77.542, -49.043]],
-			label: 'Herbalist',
+			label: '약초상',
 			popup: 'This merchant appears after liberating the area. Here you can buy alchemy ingredients'
 		}],
 
@@ -125,14 +125,14 @@
 				[-39.028, -56.865],
 				[-28.613, -42.188]
 			],
-			label: 'Hidden Treasure',
+			label: '숨겨진 보물',
 			popup: 'A hidden cache of valuable goods'
 		}],
 
 	// Innkeep
 		innkeep: [{
 			coords: [[-65.731, -80.068]],
-			label: 'White Orchard Inn',
+			label: '백색 과수원 여관',
 			popupTitle: 'Innkeep',
 			popup: 'Sells Gwent cards, and drink. Disappears after progressing through story quests'
 		}],
@@ -147,14 +147,14 @@
 				[-45.027, -0.308],
 				[-64.206, 9.712]
 			],
-			label: 'Monster Nest',
+			label: '괴물 둥지',
 			popup: 'Destroy monster nests with Grapeshot or Dancing Star bombs'
 		}],
 
 	// Notice Board
 		notice: [{
 			coords: [[-67.643, -89.385]],
-			label: 'Notice Board',
+			label: '게시판',
 			popup: 'Here you can find monster contracts and announcements about matters of local concern'
 		}],
 
@@ -164,32 +164,32 @@
 	// Place of Power
 		pop: [{
 			coords: [[-81.492, -106.699]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Quen',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}, {
 			coords: [[-79.703, -52.822]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Yrden',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}, {
 			coords: [[-51.536, -130.386]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Axii',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}, {
 			coords: [[-34.235, -94.043]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Igni',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}, {
 			coords: [[-13.325, -97.559]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Aard',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}, {
 			coords: [[-43.771, 0.308]],
-			label: 'Place of Power',
+			label: '힘의 원천',
 			popupTitle: 'Place of Power - Quen',
 			popup: 'Draw from a Place of Power to gain a temporary bonus. The first time you draw from any Place of Power, you also receive 1 Ability Point'
 		}],
@@ -216,22 +216,22 @@
 	// Shopkeeper
 		shopkeeper: [{
 			coords: [[-66.320, -75.674]],
-			label: 'Shopkeeper',
+			label: '상인',
 			popup: 'Sells Gwent cards, crafting supplies, and Temerian: blinders, saddle, saddlebags, armour',
 		}, {
 			coords: [[-66.338, -155.654]],
-			label: 'Shopkeeper',
+			label: '상인',
 			popup: 'Sells runestones, alchemy supplies and food',
 		}],
 
 	// Sign Post
 		signpost: [{
 			coords: [[-78.955, -85.869]],
-			label: 'Abandoned Village',
+			label: '버려진 마을',
 			popup: 'A few years ago, a group of armed men marched into this settlement. They butchered its inhabitants and burned down their homes. Not a soul has dwelt here since that black and bloody day'
 		}, {
 			coords: [[-77.916, -109.819]],
-			label: 'Broken Bridge',
+			label: '부서진 다리',
 			popup: 'This bridge was destroyed by retreating Temerian troops during the Nilfgaardian attack. It was shoddily built to begin with. Good riddance'
 		}, {
 			coords: [[-67.136, -72.202]],
@@ -239,15 +239,15 @@
 			popup: "So named because of a girl who once would stand on the bridge and sing, waiting for her beloved's return"
 		}, {
 			coords: [[-65.440, -141.855]],
-			label: 'Sawmill',
+			label: '제재소',
 			popup: 'White Orchard is famous not only for its premium fruit, but also for the top-quality, furniture-grade lumber harvested from the Vulpine Woods'
 		}, {
 			coords: [[-47.339, -89.912]],
-			label: 'Mill',
+			label: '방앗간',
 			popup: "Carts haul grain from all the surrounding villages to White Orchard's mill"
 		}, {
 			coords: [[-20.468, -153.281]],
-			label: 'Nilfgaardian Garrison',
+			label: '닐프가드 집결지',
 			popup: "This strategic point guards White Orchard's main river crossing. Nilfgaardian troops have taken it over"
 		}, {
 			coords: [[-46.073, -13.271]],
@@ -255,7 +255,7 @@
 			popup: 'Bridge named in honor of a woman who went mad from unfulfilled love. After her heart snapped, she spent all her days running up and down this bridge while laughing hysterically'
 		}, {
 			coords: [[-63.015, -4.482]],
-			label: 'Crossroads',
+			label: '교차로',
 			popup: 'The road splits here. One fork leads to Vizima, the other to Novigrad'
 		}, {
 			coords: [[-68.106, -37.266]],
@@ -270,14 +270,14 @@
 	// Smugglers' Cache
 		smugglers: [{
 			coords: [[-76.720, -31.201]],
-			label: "Smugglers' Cache",
+			label: "밀수꾼의 은닉처",
 			popup: 'Smuggled goods have been hidden here'
 		}],
 
 	// Spoils of War
 		spoils: [{
 			coords: [[-12.726, -128.452]],
-			label: 'Spoils of War',
+			label: '전쟁터',
 			popup: 'Search here for loot left behind after a battle or skirmish'
 		}]
 	});

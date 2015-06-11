@@ -308,7 +308,8 @@ $(function() {
     });
 
 jQuery(document).ready(function() {
-    setTimeout(function() {
+    if (mobile) {
+    setTimeout(function() { 
         origSidebar = $('#sidebar').css('left');
         origBorder = $('#sidebar-border').css('left');
         origHide = $('#hide-sidebar').css('left');
@@ -324,7 +325,7 @@ jQuery(document).ready(function() {
         $('#hide-sidebar').animate({left : '0px'}, 200, function() {
             $('#hide-sidebar').addClass('show-sidebar');
         });
-    }, 200);
+    }, 200); }
 });
  
 });
