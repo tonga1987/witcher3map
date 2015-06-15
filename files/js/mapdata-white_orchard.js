@@ -46,7 +46,7 @@
 				[-66.000, -19.688]
 			],
 			label: '도적 캠프',
-			popup: 'A group of dangerous bandits have made camp here'
+			popup: '무서운 도적때들이 이곳에 캠프를 세웠다'
 		}],
 
 	// Barber
